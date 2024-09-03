@@ -1,4 +1,4 @@
-# Paint App com React e TypeScript
+# Coleta de Assinatura com React e TypeScript
 
 Este projeto é uma aplicação web simples de desenho estilo Paint, para coleta de assinatura, construída com React, TypeScript e Vite. Ele oferece uma tela de desenho interativa com funcionalidades básicas de pintura.
 
